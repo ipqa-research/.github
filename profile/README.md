@@ -1,17 +1,16 @@
 # IPQA-Research
 
-El Instituto de Investigación y Desarrollo en Ingeniería de Procesos y Química
-Aplicada (IPQA) se propone como misión constituirse en un centro de referencia
-en relación al desarrollo, transferencia y divulgación de conocimiento en
-ciencias químicas e ingeniería de procesos aplicados al diseño, optimización y
-planificación de procesos y complejos productivos así como al diseño, síntesis
-y caracterización para el desarrollo de nuevos productos de interés tecnológico
-para el país, particularmente en la región centro. En tal sentido se busca
-potenciar y estimular las acciones conjuntas de la FCEFyN-UNC, la FCQ-UNC y el
-CONICET.
+The Institute of Research and Development in Process Engineering and
+Applied Chemistry (IPQA) aims to establish itself as a reference center 
+for the development, transfer, and dissemination of knowledge in chemical 
+sciences and process engineering applied to the design, optimization, 
+and planning of processes and production complexes, as well as the 
+design, synthesis, and characterization for the development of new products 
+of technological interest for the country, particularly in the central 
+region. In this regard, efforts are made to enhance and stimulate joint 
+actions between FCEFyN-UNC, FCQ-UNC, and CONICET.
 
-En este repositorio se alojan nuestros desarrollos de software de código
-abierto:
+In this repository, our open-source software developments are hosted:
 
-- [`ugropy`: Algoritmos de detección de grupos funcionales:](https://github.com/ipqa-research/ugropy)
-- [`yaeos`: Modelos termodinámicos](https://github.com/ipqa-research/yaeos)
+- [`ugropy`: Python library to identify molecule's functional groups for group contribution thermodynamic models](https://github.com/ipqa-research/ugropy)
+- [`yaeos`: Thermodynamic models](https://github.com/ipqa-research/yaeos)
