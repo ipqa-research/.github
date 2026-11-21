@@ -14,3 +14,4 @@ In this repository, our open-source software developments are hosted:
 
 - [`ugropy`: Python library to identify molecule's functional groups for group contribution thermodynamic models](https://github.com/ipqa-research/ugropy)
 - [`yaeos`: Thermodynamic models](https://github.com/ipqa-research/yaeos)
+- [`thermodiff`: SymPy shenanigans and shortcuts for thermodynamic expressions differentiation and manipulation.](https://github.com/ipqa-research/thermodiff)
